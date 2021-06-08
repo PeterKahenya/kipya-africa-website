@@ -42,7 +42,7 @@ kombu==4.6.8
 ldif3==3.1.1
 Markdown==3.2.1
 mysqlclient==1.4.6
-Pillow==7.0.0
+Pillow==8.2.0
 pkg-resources==0.0.0
 PyPDF2==1.26.0
 python-card-me==0.9.3
